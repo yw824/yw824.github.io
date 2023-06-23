@@ -18,3 +18,4 @@ last_modified_at: 2020-06-24
 처음 작성하는 Markdown 문법의 github.io 포스트  
 - https://ansohxxn.github.io/blog/posting/
 - https://devinlife.com/howto%20github%20pages/first-post/
+- https://docs.github.com/ko/enterprise-server@3.6/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
